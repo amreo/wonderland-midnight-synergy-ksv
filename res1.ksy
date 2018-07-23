@@ -3,11 +3,11 @@ meta:
   file-extension: .dat
   endian: le
 seq:
-  - id: records
-    type: record
+  - id: file_entries
+    type: file_entry
     repeat: eos
 types:
-  record: 
+  file_entry: 
     seq:
       - id: filename_size
         type: u1

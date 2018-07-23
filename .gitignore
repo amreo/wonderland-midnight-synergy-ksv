@@ -1,2 +1,7 @@
+wonderland_res1
 wonderland_res1.py
 __pycache__/
+.vscode/
+*.lev
+*.dat
+*.bmp

@@ -10,9 +10,7 @@ types:
   file_entry: 
     seq:
       - id: filename_size
-        type: u1
-      - id: mag01
-        contents: [0x00, 0x00, 0x00]
+        type: u4
       - id: filename
         type: str
         size: filename_size

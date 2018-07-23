@@ -51,6 +51,7 @@ enums:
     0: void
     100: floor
     200: wall
+    201: wall
     300: water
     400: ice
     401: ice_down_right
@@ -78,6 +79,7 @@ enums:
     1007: gate_green_vertical
     1009: gate_indigo
     1103: button_square_violet
+    1104: button_circle_violet
     1105: button_timer_violet
     1107: button_circle_yellow
     1109: button_square_green
@@ -97,6 +99,7 @@ enums:
     7: enemy_coily
     8: enemy_zbot
     25: coin_bonus
+    26: fish
   theme: 
     2: classic
     3: ice

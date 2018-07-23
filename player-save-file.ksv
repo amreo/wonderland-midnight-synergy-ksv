@@ -31,11 +31,3 @@ types:
     seq:
       - id: level_score
         type: u4
-
-# score totale 1010
-# level1 score 1010
-
-# score totale 2270
-# level1 score 1010
-# level2 score 1260
-

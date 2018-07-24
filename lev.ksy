@@ -74,14 +74,17 @@ enums:
     810: cannon_down
     1000: gate_exit_horizontal
     1001: gate_exit_vertical
+    1002: gate_violet_horizontal
     1003: gate_violet_vertical
+    1004: gate_violet_horizontal
     1005: gate_yellow_vertical
     1007: gate_green_vertical
-    1009: gate_indigo
+    1009: gate_indigo_vertical
     1103: button_square_violet
     1104: button_circle_violet
     1105: button_timer_violet
     1107: button_circle_yellow
+    1108: button_timed_yellow
     1109: button_square_green
     1111: button_timer_green # This is strange, square-timer-square. I bet it was square
     1112: button_square_indigo
@@ -98,8 +101,11 @@ enums:
     6: coin_rainbow
     7: enemy_coily
     8: enemy_zbot
+    16: enemy_kaboom
+    17: enemy_kaboom
     25: coin_bonus
     26: fish
+    27: unknown #Maybe the rain?
   theme: 
     2: classic
     3: ice

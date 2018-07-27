@@ -1,6 +1,6 @@
-wonderland_res1.py
-wonderland_lev.py
-__pycache__/
+wonderland/wonderland_res1.py
+wonderland/wonderland_lev.py
+*/__pycache__/
 .vscode/
 *.lev
 *.dat
